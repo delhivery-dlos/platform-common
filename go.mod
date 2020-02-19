@@ -1,4 +1,4 @@
-module github.com/sanEedara531/go-common-utility
+module github.com/delhivery-dlos/platform-common
 
 go 1.13
 
